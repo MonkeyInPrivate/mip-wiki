@@ -45,16 +45,10 @@ params:
   comments:
     enable: false
     type: giscus
-    
-    giscus:
-      repo: MonkeyInPrivite/mip-wiki-giscus
-      repoId: R_kgDOQwwuyQ
-      category: Announcements
-      categoryId: DIC_kwDOQwwuyc4C0XMC
   footer:
     displayCopyright: true
     displayPoweredBy: false
 
   editURL:
-    enable: true
+    enable: false
     base: "https://github.com/MonkeyInPrivite/mip-wiki/edit/content/main"
