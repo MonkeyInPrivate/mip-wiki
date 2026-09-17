@@ -55,8 +55,10 @@ params:
     displayCopyright: true
     displayPoweredBy: false
   banner:
-    key: 'This site is no longer in development, please read the home page!'
-
+    key: ''
+    message: | This wiki is no longer in development!
+    Please read the home page.
+      
   editURL:
     enable: true
     base: "https://github.com/MonkeyInPrivite/mip-wiki/edit/content/main"
