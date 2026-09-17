@@ -59,7 +59,7 @@ banner:
     message: |
       This wiki is no longer in development!  
       Please read the home page for more info.
-    
+
   editURL:
     enable: true
     base: "https://github.com/MonkeyInPrivite/mip-wiki/edit/content/main"
