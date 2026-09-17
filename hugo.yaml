@@ -54,6 +54,8 @@ params:
   footer:
     displayCopyright: true
     displayPoweredBy: false
+  banner:
+    key: 'This site is no longer in development, please read the home page!'
 
   editURL:
     enable: true
