@@ -54,11 +54,12 @@ params:
   footer:
     displayCopyright: true
     displayPoweredBy: false
-  banner:
-    key: ''
-    message: | This wiki is no longer in development!
-    Please read the home page.
-      
+banner:
+    key: 'Warning'
+    message: |
+      This wiki is no longer in development!  
+      Please read the home page for more info.
+    
   editURL:
     enable: true
     base: "https://github.com/MonkeyInPrivite/mip-wiki/edit/content/main"
