@@ -55,7 +55,7 @@ params:
     displayCopyright: true
     displayPoweredBy: false
 banner:
-    key: 'Warning'
+    key: 'Welcome to The Release of MIP Wiki!'
     message: |
       This wiki is no longer in development!  
       Please read the home page for more info.
